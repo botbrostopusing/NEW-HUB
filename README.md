@@ -1,8 +1,8 @@
 if game.PlaceId == 6447798030 then -- 🔊 FIXED | Funky Friday
 loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/inf_score.lua.obfuscated.lua'))()
 
-elseif game.PlaceId == 10903978962 then -- Sheep Tycoon 🐑
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Tamachiru/AppleX/main/2'))()
+elseif game.PlaceId == 9386846196 then -- Brawling Grounds
+loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/BRAWLING_GROUND.lua.obfuscated.lua'))()
 
 elseif game.PlaceId == 3823850583 then -- 🎃Street Simulator🎃
 loadstring(game:HttpGet("https://raw.githubusercontent.com/botbrostopusing/E/main/README.md"))()
