@@ -1,5 +1,5 @@
 if game.PlaceId == 6447798030 then -- 🔊 FIXED | Funky Friday
-loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/README.md'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/inf_score.lua.obfuscated.lua'))()
 
 elseif game.PlaceId == 10903978962 then -- Sheep Tycoon 🐑
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Tamachiru/AppleX/main/2'))()
