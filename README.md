@@ -14,3 +14,7 @@ end
 if game.PlaceId == 10758955211 then -- 🪐 [SPACE] 🏆 Skydive Race Clicker
 loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/SKY_DIVE_BETA.lua.obfuscated%20(1).lua'))()
 end
+
+if game.PlaceId == 9528144165 then -- (RELEASE)0ne Piece
+loadstring(game:HttpGet('https://raw.githubusercontent.com/botbrostopusing/INF-ScoRE/main/SSSSSSSSSSSSSSSSSSSSSSSSSSSSS.lua.obfuscated.lua'))()
+end
